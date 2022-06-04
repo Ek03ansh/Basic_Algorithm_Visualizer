@@ -1,0 +1,13 @@
+.controls-container {
+  background-color: #cef;
+  height: 3em;
+  width: 100%;
+}
+
+.controls-title {
+  color: #fff;
+  font-size: 2rem;
+  font-family: "Courier New", Courier, monospace;
+  display: block;
+  text-align: center;
+}
